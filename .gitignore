@@ -1,0 +1,21 @@
+# Compiled Object files
+*.slo
+*.lo
+*.o
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+.gdb_history
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+core
+*.swp
+*~
+*.exe
+.vscode/
+
+build
+build-*
